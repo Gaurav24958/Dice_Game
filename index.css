@@ -52,3 +52,16 @@ body{
     
 
 }
+
+.bot{
+    margin-top: 25px;
+   
+    height: 25vh;
+   
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+
+}
+
